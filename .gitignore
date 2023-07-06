@@ -1,0 +1,7 @@
+# Project exclude paths
+/api-gateway/.gradle/
+/api-gateway/build/
+/api-gateway/build/classes/java/main/
+/discovery-server/.gradle/
+/discovery-server/build/
+/discovery-server/build/classes/java/main/
